@@ -81,13 +81,7 @@ h3{
     font-size: 1.5em;
     text-shadow: 4px 6px 9px rgba(0, 0, 0, 0.13);
 }
-h3:hover{
-    font-size: 3em;
-    text-shadow: 4px 6px 9px rgba(0, 0, 0, 0.13);
-    padding-left: 30px;
-    font-family: var(--fonth3);
 
-}
 .instrucao{
     display: block;
     padding: 25px;
