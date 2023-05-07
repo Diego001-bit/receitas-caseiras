@@ -139,3 +139,12 @@ footer{
     min-width: 320px;
     background-color: white;
 }
+main img{
+    max-width: 800px;
+    min-width: 320px;
+    width: 100%;
+    display: block;
+    margin: auto;
+    border-radius: 7px;
+    box-shadow:4px 4px 6px #fb8c0d44;
+}
